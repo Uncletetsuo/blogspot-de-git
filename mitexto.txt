@@ -1,0 +1,1 @@
+vamos a poder trabajar con lo que seria el texto plano en un .txt
