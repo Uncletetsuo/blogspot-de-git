@@ -50,5 +50,16 @@ padding: 0.5em;
 #post
 {
     padding: 1.5em;
+<<<<<<< HEAD
     background: #fdfdfd;
+=======
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> footer
 }
