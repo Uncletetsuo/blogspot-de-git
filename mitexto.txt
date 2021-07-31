@@ -2,14 +2,10 @@ vamos a poder trabajar con lo que seria el texto plano en un .txt
 
 Master 1 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Master 2
-=======
-experimento 1 
->>>>>>> experimento 1
-=======
+
 experimento 1 
 
 Experimento 2
->>>>>>> exp 2
+
